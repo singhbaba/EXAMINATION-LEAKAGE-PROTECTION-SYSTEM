@@ -1,6 +1,6 @@
 
-#include <Password.h> //http://playground.arduino.cc/uploads/Code/Password.zip //tells to use password library
-#include <Keypad.h> //http://www.arduino.cc/playground/uploads/Code/Keypad.zip  //tells to use keypad library
+#include <Password.h> 
+#include <Keypad.h> 
 #include <Servo.h> //tells to use servo library
 
 
